@@ -1,8 +1,8 @@
 .container{
     max-width: 600px;
-    margin:60px  auto;
-    background: white;
-    padding: 30px;
+    margin:30px  auto;
+    background:#e8dbc7;
+    padding: 20px;
     box-shadow: 5px 5px 5px  rgb(185, 180, 180);
     border-radius: 7px;
 
@@ -36,6 +36,13 @@
 .date{
     opacity: 0.7;
 }
+
+.cleps{
+    position: relative;
+    display: block;
+    margin:0 auto;
+}
+
 
 
 body{
